@@ -1,4 +1,4 @@
-INTERFACE z_aff_example_intf PUBLIC.
+INTERFACE z_aff_example_intf_ag PUBLIC.
 
   TYPES ty_example_type TYPE string.
 
